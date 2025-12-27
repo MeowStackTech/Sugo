@@ -1,8 +1,8 @@
-# Sugo保护工具 - Sugo Protector
+# Sugo 保护工具 - Sugo Protector
 
 <p align="center">
   <b>下一代二进制文件保护解决方案</b><br>
-  <a href="https://sugo.meowstack.com/">Sugo官网</a> · 
+  <a href="https://sugo.meowstack.com/">Sugo Protector官网</a> · 
   <a href="https://meowstack.com/">喵栈科技</a>
 </p>
 
@@ -10,7 +10,9 @@
 
 ## 项目简介
 
-**Sugo Protector** 是由喵栈科技 (MeowStack) 研发的专业级二进制文件保护工具，提供全面的代码保护功能。支持多平台，多种文件格式，为软件开发者提供强大的知识产权保护能力。
+**Sugo Protector** 是由喵栈科技 (MeowStack) 研发的专业级二进制文件保护工具，提供全面的代码保护功能。
+
+支持多平台，多种文件格式，为软件开发者提供强大的知识产权保护能力。
 
 ### 核心特性
 
@@ -129,3 +131,4 @@ Copyright © 2025 MeowStack. All rights reserved.
 
 - **官网**: [https://sugo.meowstack.com/](https://sugo.meowstack.com/)
 - **公司**: [https://meowstack.com/](https://meowstack.com/)
+- **微信公众号**: ![喵栈科技](gzh.jpg)
