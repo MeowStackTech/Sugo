@@ -1,4 +1,4 @@
-# Sugo Protector
+# Sugo保护工具 - Sugo Protector
 
 <p align="center">
   <b>下一代二进制文件保护解决方案</b><br>
