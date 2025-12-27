@@ -14,7 +14,10 @@
 
 ### 核心特性
 
-- **多平台支持** - Windows (PE x86/x64/ARM/ARM64)、.NET、Linux (ELF x86/x64/ARM/ARM64)
+- **多平台支持**
+- - Windows (PE - x86 / x64 / ARM / ARM64)
+  - .NET (PE - x86 / x64 / AnyCPU)
+  - Linux / Android (ELF - x86 / x64 / ARM / ARM64)
 - **移动端保护** - Android APK、AAB全面支持
 - **高级混淆** - 控制流混淆、常量加密、代码变形
 - **GUI & CLI** - 图形界面和命令行双模式
