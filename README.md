@@ -1,20 +1,27 @@
-# Sugo Protector
+# Sugo 保护工具 - Sugo Protector
 
 <p align="center">
   <b>下一代二进制文件保护解决方案</b><br>
-  <a href="https://sugo.meowstack.com/">Sugo官网</a> · 
-  <a href="https://meowstack.com/">喵栈科技</a>
+  <a href="https://sugo.meowstack.com/">Sugo Protector官网</a> · 
+  <a href="https://meowstack.com/">喵栈科技</a> · 
+  <a href="https://github.com/MeowStackTech/Sugo/wiki">GitHub Wiki</a> · 
+  <a href="https://gitee.com/meowstack/Sugo/wikis/Home">Gitee Wiki</a>
 </p>
 
 ---
 
 ## 项目简介
 
-**Sugo Protector** 是由喵栈科技 (MeowStack) 研发的专业级二进制文件保护工具，提供全面的代码保护功能。支持多平台（Windows、Linux）和多种文件格式（PE/.NET、ELF、APK/AAB），为软件开发者提供强大的知识产权保护能力。
+**Sugo Protector** 是由喵栈科技 (MeowStack) 研发的专业级二进制文件保护工具，提供全面的代码保护功能。
+
+支持多平台，多种文件格式，为软件开发者提供强大的知识产权保护能力。
 
 ### 核心特性
 
-- **多平台支持** - Windows (PE32/PE64)、.NET、Linux (ELF32/ELF64)
+- **多平台支持**
+- - Windows (PE - x86 / x64 / ARM / ARM64)
+  - .NET (PE - x86 / x64 / AnyCPU)
+  - Linux / Android (ELF - x86 / x64 / ARM / ARM64)
 - **移动端保护** - Android APK、AAB全面支持
 - **高级混淆** - 控制流混淆、常量加密、代码变形
 - **GUI & CLI** - 图形界面和命令行双模式
@@ -56,11 +63,15 @@
 - [ ] 鸿蒙 应用保护支持
 - [ ] iOS 应用保护支持
 - [ ] Android 资源保护支持
+- [ ] Android 防篡改支持
+- [x] Android 防截屏支持
+- [ ] Android 证书签名校验支持
 
 ### Phase 4: 高级保护
 
 - [x] 反调试增强
-- [x] 反 Hook 检测
+- [x] 反Hook增强
+- [x] 虚拟机检测
 - [x] 运行时完整性验证
 - [ ] 白盒密码学集成
 - [ ] 代码水印技术
@@ -74,8 +85,9 @@
 
 ### Phase 6: 平台扩展
 
+- [x] Window 支持
+- [ ] Linux 支持
 - [ ] macOS (Mach-O) 支持
-- [ ] Wasm 保护
 - [ ] 云保护方案
 
 ---
@@ -121,3 +133,4 @@ Copyright © 2025 MeowStack. All rights reserved.
 
 - **官网**: [https://sugo.meowstack.com/](https://sugo.meowstack.com/)
 - **公司**: [https://meowstack.com/](https://meowstack.com/)
+- **微信公众号**: ![喵栈科技](gzh.jpg)
